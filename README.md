@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Tayyab-Bukhari
-- 👀 I’m interested in Android Application Development on Both Kotline and Java
-- 🌱 I’m currently learning Android Development on Kotline
-- 💞️ I’m looking to collaborate on Artificail Intellegence
-- 📫 How to reach me tayyabbukhari0@gmail.com
+
